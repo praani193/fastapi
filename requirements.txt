@@ -1,0 +1,3 @@
+sqlalchemy~=2.0.44
+fastapi~=0.122.0
+pydantic~=2.12.5
